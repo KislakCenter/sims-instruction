@@ -1,19 +1,19 @@
 # Jekyll configuration
 
-name: Penn Libraries Jekyll Theme
-description: Theme for U. Penn Libraries
+name: SIMS Instructional
+description: Instructional resources from SIMS
 
 # url is currently only used only for the RSS feed in feed.xml
-url: https://KislakCenter.github.io/penn-libraries-jekyll-theme
+url: https://KislakCenter.github.io/sims-instruction
 
 # baseurl will often be '', but for a project page on gh-pages, it needs to
 # be the project name.
 # *** IMPORTANT: If your local "jekyll serve" throws errors change this to '' or
 #     run it like so: jekyll serve --baseurl=''
-baseurl: /penn-libraries-jekyll-theme
+baseurl: /sims-instruction
 
 # These can be '' to hide the Github or Gitlab nav buttons
-github: 'KislakCenter/penn-libraries-jekyll-theme'
+github: 'KislakCenter/sims-instruction'
 gitlab:
 
 # Define the pages to appear as links in the navigation bar in
@@ -26,14 +26,12 @@ gitlab:
 # NOTE: If no `title` is given in this list or the page's YAML header,
 # the link will not appear in the navigation bar.
 header_pages:
-  - path: links.html
-    title: Links
-  - path: archive.html
-    title: Archive
-  - path: about.html
-    title: About
-  - path: feed.xml
-    title: RSS
+  - path: library.md
+    title: Library
+  - path: workroom.md
+    title: Workroom
+  - path: classroom.md
+    title: Classroom
   - path: search.html
     title: Search
 # Set this to your UA-# value, or '' to disable the block completely
@@ -55,6 +53,6 @@ paginate: 3
 
 highlighter: rouge
 markdown: kramdown
-gems: ['jekyll-paginate']
+plugins: ['jekyll-paginate']
 
 exclude: ['README.md', 'LICENSE', '/node_modules']
