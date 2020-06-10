@@ -51,6 +51,6 @@ paginate: 3
 
 highlighter: rouge
 markdown: kramdown
-plugins: 
+plugins:
 
 exclude: ['README.md', 'LICENSE', '/node_modules']
