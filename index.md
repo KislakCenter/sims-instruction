@@ -30,9 +30,9 @@ We advance the mission of SIMS by:
 ### Follow SIMS:
  - Twitter: [@SIMS_Mss](https://twitter.com/SIMS_Mss)
  - YouTube: [SchoenbergInstitute](https://www.youtube.com/user/SchoenbergInstitute)
- - Tumblr: [Penn Libraries Manuscripts](https://upennmanuscripts.tumblr.com/post/139487039821/the-schoenberg-institute-for-manuscript-studies-at)
+ - Tumblr: [upennmanuscripts](https://upennmanuscripts.tumblr.com/post/139487039821/the-schoenberg-institute-for-manuscript-studies-at)
  - TikTok: [schoenberginstitute_mss](https://www.tiktok.com/@schoenberginstitute_mss)
- - Facebook: [SIMS](https://www.facebook.com/SIMSMss)
+ - Facebook: [SIMSMss](https://www.facebook.com/SIMSMss)
 
 
 [<img src="/sims-instruction/images/SIMS_Logo.png" alt="SIMS logo" width="400"/>](https://schoenberginstitute.org/)
