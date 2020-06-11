@@ -35,4 +35,4 @@ We advance the mission of SIMS by:
  - Facebook: [SIMS](https://www.facebook.com/SIMSMss)
 
 
-[![SIMS logo](/sims-instruction/images/PL_SIMS_Logo.png)](https://schoenberginstitute.org/)
+[<img src="/sims-instruction/images/SIMS_Logo.png" alt="SIMS logo" width="400"/>](https://schoenberginstitute.org/)
