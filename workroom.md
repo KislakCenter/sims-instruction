@@ -16,5 +16,5 @@ This is the Workroom, in which you can find tools to help you analyze and do pro
 ### [VisColl](https://viscoll.org/)
 
  [<img align="right" height="150" src="http://img.youtube.com/vi/TdPPcCIcSgk/0.jpg" alt="Tutorial on YouTube for building a collation model">](http://www.youtube.com/watch?v=TdPPcCIcSgk "VisColl Tutorial")
- 
+
 > VisColl (Collation Visualization) is a system for modeling and visualizing the physical collation of medieval manuscript codices. For an example of how the modeler looks in context, see [Lewis E 89](http://bibliophilly.library.upenn.edu/viewer.php?id=Lewis%20E%2089#page/1/mode/2up) a Book of Hours from the Free Library of Philadelphia. Click on the icon that looks like a stack of quires in the upper left (next to the gear icon) and the collation visualization will appear across the top of the screen. For more information see the [VisColl project website](https://viscoll.org/) or the first tutorial linked on the right.
