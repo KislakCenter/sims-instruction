@@ -8,12 +8,12 @@ This is the Classroom, in which you can find resources to help you learn more ab
 <p>&nbsp;</p>
 
 ### Websites, YouTube and Fun
-[<img align="right" height="100" src="/sims-instruction/images/52_disc.jpg/" alt="Book of Hours for the Use of Paris, Philadelphia, Philadelphia Museum of Art, 1945-65–5, p. 351, retouched miniature of Saint Michael">](https://bibliophilly.pacscl.org/category/fifty-two-discoveries/ "52 Discoveries")
+[<img align="right" height="100" src="/sims-instruction/images/52_disc.jpg" alt="Book of Hours for the Use of Paris, Philadelphia, Philadelphia Museum of Art, 1945-65–5, p. 351, retouched miniature of Saint Michael">](https://bibliophilly.pacscl.org/category/fifty-two-discoveries/ "52 Discoveries")
 #### [52 Discoveries in Philadelphia Manuscript Collections](https://bibliophilly.pacscl.org/category/fifty-two-discoveries/)
 
 >This site is in response to the BiblioPhilly project and showcases discoveries made in those collections, one for each week of the year.
 
-[<img align="right" height="100" src="/sims-instruction/images/orientations.jpg/" alt="Still from YouTube orientation for LJS 483">](https://www.youtube.com/playlist?list=PL8e3GREu0zuArF1rYG2JgKxWb_Kp_zmoT "Video Orientations")
+[<img align="right" height="100" src="/sims-instruction/images/orientations.jpg" alt="Still from YouTube orientation for LJS 483">](https://www.youtube.com/playlist?list=PL8e3GREu0zuArF1rYG2JgKxWb_Kp_zmoT "Video Orientations")
 
 #### [Manuscript Video Orientations](https://www.youtube.com/playlist?list=PL8e3GREu0zuArF1rYG2JgKxWb_Kp_zmoT)
 
