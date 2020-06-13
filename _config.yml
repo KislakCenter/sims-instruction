@@ -32,6 +32,8 @@ header_pages:
     title: Workroom
   - path: classroom.md
     title: Classroom
+  - path: gallery.md
+    title: Gallery
 # Set this to your UA-# value, or '' to disable the block completely
 gaaccount: ''
 
