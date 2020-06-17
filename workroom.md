@@ -4,7 +4,7 @@ title: Workroom
 permalink: /workroom/
 ---
 
-This is the Workroom, in which you can find tools to help you analyze and do projects with manuscript digital surrogates. Tool tutorials to help get you started are linked below the description.
+This is the Workroom, in which you can find tools to help you analyze and do projects with manuscript digital surrogates. Tool tutorials are linked when available.
 
 ### [DigitalMappa](https://www.digitalmappa.org/)
 
