@@ -44,4 +44,4 @@ We advance the mission of SIMS by:
 
 <p>&nbsp;</p>
 
-[<img src="/sims-instruction/images/SIMS_Logo.png" alt="SIMS logo" width="300"/>](https://schoenberginstitute.org/)
+[<img src="/sims-instruction/images/SIMS_logo.png" alt="SIMS logo" width="300"/>](https://schoenberginstitute.org/)
