@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Welcome
 ---
 
 This website hosts resources for teaching and learning provided by SIMS, the Schoenberg Institute for Manuscript Studies.
