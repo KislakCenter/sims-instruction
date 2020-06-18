@@ -28,8 +28,8 @@ gitlab:
 header_pages:
   - path: library.md
     title: Library
-  - path: workroom.md
-    title: Workroom
+  - path: laboratory.md
+    title: Laboratory
   - path: classroom.md
     title: Classroom
   - path: gallery.md

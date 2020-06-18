@@ -4,7 +4,6 @@ title: Welcome
 ---
 
 This website hosts resources for teaching and learning provided by SIMS, the Schoenberg Institute for Manuscript Studies.
-
 <p>&nbsp;</p>
 
 ### Content and Organization
@@ -12,14 +11,14 @@ This website hosts resources for teaching and learning provided by SIMS, the Sch
 #### [**Library**](/sims-instruction/library/)
  - Here you will find repositories of Digital Primary Sources and Metadata
 
-#### [**Workroom**](/sims-instruction/workroom/)
+#### [**Laboratory**](/sims-instruction/laboratory/)
  - Here you will find Tools to help you further your manuscript research or present it to others
 
 #### [**Classroom**](/sims-instruction/classroom/)
  - Here you will find Resources to help you learn more about manuscripts
 
 #### [**Gallery**](/sims-instruction/gallery/)
- - Here you will find online exhibits related to SIMS materials
+ - Here you will find online Exhibits related to SIMS materials
 
 <p>&nbsp;</p>
 
