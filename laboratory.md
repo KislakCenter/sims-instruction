@@ -4,7 +4,7 @@ title: Laboratory
 permalink: /laboratory/
 ---
 
-This is the Laboratory, in which you can find tools to help you analyze and do projects with manuscript digital surrogates. Tool tutorials to help get you started are linked below the description.
+This is the Laboratory, in which you can find tools to help you analyze and do projects with manuscript digital surrogates. 
 
 ### [DigitalMappa](https://www.digitalmappa.org/)
 
