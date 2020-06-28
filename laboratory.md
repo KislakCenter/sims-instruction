@@ -16,15 +16,15 @@ This is the Laboratory, in which you can find Tools to help you analyze manuscri
 
 > DigitalMappa (DM) is an open-source DH platform for open-access workspaces, projects, collaborations, and scholarly publications. "The premise of DM is simple: if you have a collection of digital images and texts, then you should be able to develop a project where you can identify specific moments on these images and texts, annotate them as much as you want, link them together, generate searchable content, collaborate with your friends, and publish your work online for others to see and share." SIMS hosts [an instance of DM](https://sims2.digitalmappa.org/ "SIMS DM") with completed projects for you to view. If you need help understanding how to use DM, the [UW-Madison DM site](https://www.digitalmappa.org/ "UW-Madison DM") has a [Creator Guide](https://www.digitalmappa.org/creatorguide "Guide") for those getting started with a project. An introductory video tutorial on how to use DM will also be coming soon to this website. To request to begin a project on the SIMS DM instance, go to the [SIMS instance](https://sims2.digitalmappa.org/ "SIMS DM") and Register at the top right of the page.
 
-### [Needham Calculator](http://www.needhamcalculator.net/)
-
-> A calculator for diagnosing the category and format of 15th century paper.
-
 ### [Mapping Manuscript Migrations](https://mappingmanuscriptmigrations.org/en/)
 
 [<img style="padding: 10px" align="right" width="200" src="/sims-instruction/images/mmm-logo.png" alt="MMMM Landing Page">](https://mappingmanuscriptmigrations.org/en "MMM Project Homepage")
 
 >Mapping Manuscript Migrations (MMM) is a semantic portal for finding and studying pre-modern manuscripts and their movements, based on linked collections of the [Schoenberg Institute for Manuscript Studies](https://sdbm.library.upenn.edu/), the [Bodleian Libraries](https://medieval.bodleian.ox.ac.uk/), and the [Institut de recherche et d'histoire des textes](http://bibale.irht.cnrs.fr/). The data have been combined using a set of shared ontologies and a novel unified Data Model that extends the CIDOC-CRM and FRBRoo ontologies. A diagram of the Data Model can be seen [here](/sims-instruction/assets/MMM_Unified-Data-Model_Diagram.pdf). The original data have not been corrected or amended in any way, only aggregated from the legacy databases and transformed and linked into a global knowledge graph hosted in a linked open data service. The semantic portal MMM was created on top of the data service using its SPARQL API. If you would like to learn how to conduct SPARQL queries with this dataset, please see the SPARQL header in the [Classroom](/sims-instruction/classroom/).
+
+### [Needham Calculator](http://www.needhamcalculator.net/)
+
+> A calculator for diagnosing the category and format of 15th century paper.
 
 ### [Schoenberg Database of Manuscripts (SDBM)](https://sdbm.library.upenn.edu/)
 
