@@ -9,7 +9,7 @@ This website hosts resources for teaching and learning provided by SIMS, the Sch
 ### Content and Organization
 
 #### [**Library**](/sims-instruction/library/)
- - Here you will find repositories of Digital Primary Sources and Metadata
+ - Here you will find repositories of Digital Primary Sources and Manuscript Metadata
 
 #### [**Laboratory**](/sims-instruction/laboratory/)
  - Here you will find Tools to help you further your manuscript research or present it to others
