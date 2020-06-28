@@ -48,18 +48,10 @@ historical and contemporary sources that document the sales and
 locations of these books from around the world. Entries in the SDBM
 assist researchers in locating and identifying particular manuscripts,
 establishing provenance, and collecting descriptive information about
-specific classes or types of manuscripts. SDBM user accounts are free
-and open to all, allowing users to contribute to the database’s
-development by adding and linking entries, creating name and place
-authority files, and collaborating with other users on shared research
-interests. Our user community includes scholars, librarians,
+specific classes or types of manuscripts. Our user community includes scholars, librarians,
 booksellers, students, collectors, and others who care about manuscripts
-and want to contribute to our shared knowledge of their histories.
-
->  This [introductory webinar](http://www.youtube.com/watch?v=pn6H0I4sS4Q) provides a basic introduction to the database. It includes
+and want to contribute to our shared knowledge of their histories. This [introductory webinar](http://www.youtube.com/watch?v=pn6H0I4sS4Q) provides a basic introduction to the database. It includes
 an explanation of the SDBM's development history and data model,
-followed by demonstrations of the user interface and search strategies.
-Viewers will also learn how to contribute their own knowledge to the
-database in the form of Personal Observations. This webinar was recorded
+followed by demonstrations of the user interface and search strategies. This webinar was recorded
 on May 19, 2020 with a live audience and includes their questions at the
 end.
