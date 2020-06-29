@@ -7,7 +7,7 @@ Here, you can find a collection of online exhibitions related to SIMS.
 
 <p>&nbsp;</p>
 
-#### [A Liberal Arts Education for the (Middle) Ages: Texts, Translations, and Study](https://ljs101exhibit.omeka.net/introduction)
+#### [A Liberal Arts Education for the (Middle) Ages: Texts, Translations, and Study](https://ljs101.exhibits.library.upenn.edu/)
 >This online exhibition by Christine Bachman, the SIMS Graduate Student Research Fellow 2019-2020, explores the study of the liberal arts, the texts of Boethius, and the intellectual life of early medieval monasteries through a selection of manuscripts from the collections of the University of Pennsylvania Libraries.
 
 #### [Intertwined Worlds](http://sceti.library.upenn.edu/IntertwinedWorlds/)
