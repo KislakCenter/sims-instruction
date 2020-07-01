@@ -12,7 +12,7 @@ Here, you can find a collection of online exhibitions related to SIMS.
 
 #### [Intertwined Worlds](http://sceti.library.upenn.edu/IntertwinedWorlds/)
 
-[<img style="padding: 10px" align="right" height="100" src="/sims-instruction/images/2811_0076.jpg" alt="fol. 77r from Ms. Indic 26">](http://openn.library.upenn.edu/Data/0002/html/mscoll390_item3001.html#a76v77r "Ms. Indic 26")
+[<img style="padding: 10px" align="right" height="100" src="/sims-instruction/images/2811_0076_web.jpg" alt="fol. 77r from Ms. Indic 26">](http://openn.library.upenn.edu/Data/0002/html/mscoll390_item3001.html#a76v77r "Ms. Indic 26")
 
 >Originally exhibited August 23-December 22, 2017, this exhibition explores pre-modern religious traditions of South and Southeast Asia including Jainism, Buddhism, and Hinduism.
 
