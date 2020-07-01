@@ -31,6 +31,12 @@ This is the Classroom, in which you can find resources to help you learn more ab
 [<img style="padding: 10px" align="right" height="100" src="/sims-instruction/images/basics.jpg" alt="Islamic manuscript headpiece with added title">](https://kislakcenter.github.io/islamicmss/ "Islamic Mss Basics")
 >This site introduces novices to looking at Islamic manuscripts. Read through the pages in order and, if you like, take the mini-quizzes as you go.
 
+#### [MMM SPARQL Tutorial](https://mapping-manuscript-migrations.github.io/mapping-manuscript-migrations.github.io//sparql/sparql_tutorial.html)
+
+[<img style="padding: 10px" align="right" width="150" src="/sims-instruction/images/mmm-logo.png" alt="MMM Landing Page">](https://mapping-manuscript-migrations.github.io/mapping-manuscript-migrations.github.io//sparql/sparql_tutorial.html "SPARQL Tutorial")
+
+> This tutorial provides the building blocks you will need to explore the Mapping Manuscript Migrations (MMM) dataset using the SPARQL query language. You can construct far more complex queries using SPARQL than the faceted search provided by the general [MMM user interface](https://mappingmanuscriptmigrations.org/en/). Although the SPARQL language can intimidate the uninitiated, it's actually quite easy to use once you learn the basics of the syntax. The queries included in this tutorial can be customized by the user to suit any particular research interest. You should know a bit about the MMM project in general before embarking on the SPARQL tutorial: you can read more about it [here](https://mappingmanuscriptmigrations.org/en/about).
+
 <p>&nbsp;</p>
 ### Lecture Series
 
@@ -44,14 +50,6 @@ This is the Classroom, in which you can find resources to help you learn more ab
 ### Journal
 
 #### [Manuscript Studies](https://mss.pennpress.org/home)
-[<img style="padding: 10px" align="right" height="100" src="/sims-instruction/images/mss-51cover.jpg" alt="Cover image from MSS Issue 51">](https://mss.pennpress.org/home "Manuscript Studies")
+[<img style="padding: 10px" align="right" width="150" src="/sims-instruction/images/mss-51cover.jpg" alt="Cover image from MSS Issue 51">](https://mss.pennpress.org/home "Manuscript Studies")
 
 > Manuscript Studies is a new journal that embraces the full complexity of global manuscript studies in the digital age. It has been conceived with four main goals in mind. First, to bridge the gaps between material and digital manuscript research; second, to break down the walls which often separate print and digital publication and serve as barriers between academics, professionals in the cultural heritage field, and citizen scholars; third, to serve as a forum for scholarship encompassing many pre-modern manuscripts cultures—not just those of Europe; and finally to showcase methods and techniques of analysis in manuscript studies that can be applied across different subject areas.
-<p>&nbsp;</p>
-
-### SPARQL tutorial
-
-#### [Mapping Manuscript Migrations](https://mapping-manuscript-migrations.github.io/mapping-manuscript-migrations.github.io//sparql/sparql_tutorial.html)
-[<img style="padding: 10px" align="right" width="200" src="/sims-instruction/images/mmm-logo.png" alt="MMMM Landing Page">](https://mappingmanuscriptmigrations.org/en "MMM Project Homepage")
-
-> This tutorial provides the building blocks you will need to explore the Mapping Manuscript Migrations (MMM) dataset using the SPARQL query language. You can construct far more complex queries using SPARQL than the faceted search provided by the general [MMM user interface](https://mappingmanuscriptmigrations.org/en/). Although the SPARQL language can intimidate the uninitiated, it's actually quite easy to use once you learn the basics of the syntax. The queries included in this tutorial can be customized by the user to suit any particular research interest. You should know a bit about the MMM project in general before embarking on the SPARQL tutorial: you can read more about it [here](https://mappingmanuscriptmigrations.org/en/about).
