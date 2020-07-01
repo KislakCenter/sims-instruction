@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Library
-permalink: /library/
+title: Sources
+permalink: /Sources/
 ---
 
-This is the Library, where you can explore resources that can help you
+This is the Sources page, where you can explore resources that can help you
 find digital surrogates and metadata for manuscripts.
 
 ### [BiblioPhilly](http://bibliophilly.library.upenn.edu/)
@@ -33,11 +33,6 @@ of manuscript pages. It is presented in a manner most likely to ensure
 its long-term digital preservation. Many of the images here are
 available via more user-friendly page-turning applications on
 institutional websites. See [individual repository pages](http://openn.library.upenn.edu/Repositories.html) for details.
-
-### [Manuscript Studies](https://mss.pennpress.org/home)
-[<img style="padding: 10px" align="right" width="300" src="/sims-instruction/images/mss-51cover.jpg" alt="Cover image from MSS Issue 51">](https://mss.pennpress.org/home "Manuscript Studies")
-
-> Manuscript Studies is a new journal that embraces the full complexity of global manuscript studies in the digital age. It has been conceived with four main goals in mind. First, to bridge the gaps between material and digital manuscript research; second, to break down the walls which often separate print and digital publication and serve as barriers between academics, professionals in the cultural heritage field, and citizen scholars; third, to serve as a forum for scholarship encompassing many pre-modern manuscripts cultures—not just those of Europe; and finally to showcase methods and techniques of analysis in manuscript studies that can be applied across different subject areas.
 
 ### [Schoenberg Database of Manuscripts (SDBM)](https://sdbm.library.upenn.edu/)
 

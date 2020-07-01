@@ -26,8 +26,8 @@ gitlab:
 # NOTE: If no `title` is given in this list or the page's YAML header,
 # the link will not appear in the navigation bar.
 header_pages:
-  - path: library.md
-    title: Library
+  - path: sources.md
+    title: Sources
   - path: laboratory.md
     title: Laboratory
   - path: classroom.md

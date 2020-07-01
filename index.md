@@ -1,14 +1,17 @@
 ---
 layout: page
-title: Welcome
----
-This website hosts resources for teaching and learning provided by SIMS, the Schoenberg Institute for Manuscript Studies.
 
+---
+[<img style="padding: 10px" src="/sims-instruction/images/SIMS_logo.png" alt="SIMS logo" width="500"/>](https://schoenberginstitute.org/)
 <p>&nbsp;</p>
+
+## Welcome
+
+This website hosts resources for teaching and learning provided by SIMS, the Schoenberg Institute for Manuscript Studies.
 
 ### Content and Organization
 
-#### [**Library**](/sims-instruction/library/)
+#### [**Sources**](/sims-instruction/sources/)
  - Here you will find repositories of Digital Primary Sources and Manuscript Metadata
 
 #### [**Laboratory**](/sims-instruction/laboratory/)
@@ -40,7 +43,3 @@ We advance the mission of SIMS by:
  - Tumblr: [upennmanuscripts](https://upennmanuscripts.tumblr.com/post/139487039821/the-schoenberg-institute-for-manuscript-studies-at)
  - TikTok: [schoenberginstitute_mss](https://www.tiktok.com/@schoenberginstitute_mss)
  - Facebook: [SIMSMss](https://www.facebook.com/SIMSMss)
-
-<p>&nbsp;</p>
-
-[<img src="/sims-instruction/images/SIMS_logo.png" alt="SIMS logo" width="300"/>](https://schoenberginstitute.org/)
