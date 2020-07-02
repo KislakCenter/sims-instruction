@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sources
-permalink: /Sources/
+permalink: /sources/
 ---
 
 This is the Sources page, where you can explore resources that can help you
