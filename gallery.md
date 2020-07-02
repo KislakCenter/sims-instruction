@@ -6,7 +6,7 @@ permalink: /gallery/
 Here, you can find a collection of online exhibitions related to SIMS.
 
 <p>&nbsp;</p>
-[<img style="padding: 10px" align="right" width="150" src="/sims-instruction/images/LJS101.jpg" alt="LJS 101">](http://openn.library.upenn.edu/Data/0001/html/ljs101.html#a1v "LJS 101 f. 1v")
+[<img style="padding: 10px" align="right" width="150" src="/sims-instruction/images/LJS101.jpg" alt="LJS 101">](http://openn.library.upenn.edu/Data/0001/html/ljs101.html#a1v "LJS 101")
 #### [A Liberal Arts Education for the (Middle) Ages: Texts, Translations, and Study](https://ljs101.exhibits.library.upenn.edu/)
 >This online exhibition by Christine Bachman, the SIMS Graduate Student Research Fellow 2019-2020, explores the study of the liberal arts, the texts of Boethius, and the intellectual life of early medieval monasteries through a selection of manuscripts from the collections of the University of Pennsylvania Libraries.
 <p>&nbsp;</p>
@@ -18,10 +18,10 @@ Here, you can find a collection of online exhibitions related to SIMS.
 <p>&nbsp;</p>
 
 #### [Reactions: Medieval/Modern](http://sceti.library.upenn.edu/reactionsexhibit/)
-[<img style="padding: 10px" align="right" height="100" src="/sims-instruction/images/mscoll713.png" alt="Collage 1 from Ms. Ms. Coll. 713">](http://openn.library.upenn.edu/Data/0002/html/mscoll713.html#acollage1)
+[<img style="padding: 10px" align="right" height="100" src="/sims-instruction/images/mscoll713.png" alt="Collage 1 from Ms. Ms. Coll. 713">](http://openn.library.upenn.edu/Data/0002/html/mscoll713.html#acollage1 "Ms. Coll. 713")
 >Originally exhibited August 25-December 16, 2016, this exhibition explores the many and varied ways that people have reacted to, and acted upon, manuscripts from the Middle Ages up to today.
 <p>&nbsp;</p>
 
-[<img style="padding: 10px" align="right" height="200" src="/sims-instruction/images/ljs49zoom.png" alt="A full-page diagram of the human body showing arteries">](http://sceti.library.upenn.edu/legacy/index.html?section=ma&manunum=0)
+[<img style="padding: 10px" align="right" height="200" src="/sims-instruction/images/ljs49zoom.png" alt="A full-page diagram of the human body showing arteries">](http://sceti.library.upenn.edu/legacy/index.html?section=ma&manunum=0 "LJS 49")
 #### [A Legacy Inscribed: The Lawrence J. Schoenberg Collection of Manuscripts](http://sceti.library.upenn.edu/legacy/)
 >Originally exhibited March 1-August 16, 2013, this exhibit showcases the Schoenberg Collection of manuscripts held at the University of Pennsylvania. Each section of the exhibition - Arts and Sciences, Communication, Design, Education, Engineering, Law, the Medical Arts, and Social Policy and Practice - showcases texts, textbooks, documents, and letters that embody the history and mission of the schools that form the University. Often illustrated with complex diagrams and stunning imagery, the manuscripts bring to the present the intellectual legacy of the distant past.
