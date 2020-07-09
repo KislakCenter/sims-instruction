@@ -19,9 +19,9 @@ This is the Classroom, in which you can find resources to help you learn more ab
 
 >This playlist on YouTube will give you a deeper look at a number of the manuscripts held in the Schoenberg Collection at the University of Pennsylvania.
 
-[<img style="padding: 10px" align="right" height="100" src="http://img.youtube.com/vi/cBjU3UZbUeM/0.jpg" alt="YouTube link to Marguerite Makes a Book read-aloud">](https://www.youtube.com/watch?v=cBjU3UZbUeM&feature=youtu.be "Read-Aloud")
+[<img style="padding: 10px" align="right" height="100" src="http://img.youtube.com/vi/10ksUvqDOwE/0.jpg" alt="YouTube link to Marguerite Makes a Book read-aloud">](http://www.youtube.com/watch?v=10ksUvqDOwE "Marguerite Makes a Book")
 
-#### [Marguerite Makes a Book](https://youtu.be/cBjU3UZbUeM)
+#### [Marguerite Makes a book](https://youtu.be/10ksUvqDOwE)
 >This is an illustrated read-aloud of *Marguerite Makes a Book* by Bruce Robertson. Read by Dot Porter.
 
 <p>&nbsp;</p>
