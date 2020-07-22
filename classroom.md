@@ -38,11 +38,11 @@ This is the Classroom, in which you can find resources to help you learn more ab
 > This tutorial provides the building blocks you will need to explore the Mapping Manuscript Migrations (MMM) dataset using the SPARQL query language. You can construct far more complex queries using SPARQL than the faceted search provided by the general [MMM user interface](https://mappingmanuscriptmigrations.org/en/). Although the SPARQL language can intimidate the uninitiated, it's actually quite easy to use once you learn the basics of the syntax. The queries included in this tutorial can be customized by the user to suit any particular research interest. You should know a bit about the MMM project in general before embarking on the SPARQL tutorial: you can read more about it [here](https://mappingmanuscriptmigrations.org/en/about).
 
 
-#### [Reading Caroline Miniscule Script](https://sims2.digitalmappa.org/75)
+#### [Reading Caroline Minuscule Script](https://sims2.digitalmappa.org/75)
 
-[<img style="padding: 10px" align="right" width="150" src="/sims-instruction/images/carolinemini.jpg" alt="alphabet">](https://sims2.digitalmappa.org/75 "Caroline Miniscule")
+[<img style="padding: 10px" align="right" width="150" src="/sims-instruction/images/carolinemini.jpg" alt="alphabet">](https://sims2.digitalmappa.org/75 "Caroline Minuscule")
 
-> This tutorial guides you through learning to read Caroline Miniscule Script through Digital Mappa. Begin your lesson at the Challenges document. Each challenge includes links to the references and images needed to complete the challenge. References such as alphabet and abbreviation notes and images and notes on the manuscripts used are also available directly in the References folder for each script.
+> This tutorial guides you through learning to read Caroline Minuscule Script through Digital Mappa. Begin your lesson at the Challenges document. Each challenge includes links to the references and images needed to complete the challenge. References such as alphabet and abbreviation notes as well as images and notes on the manuscripts used are available directly in the References folder.
 <p>&nbsp;</p>
 
 ### Lecture Series
