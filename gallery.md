@@ -4,6 +4,11 @@ title: Gallery
 permalink: /gallery/
 ---
 Here, you can find a collection of online exhibitions related to SIMS.
+<p>&nbsp;</p>
+[<img style="padding: 10px" align="right" width="150" src="/sims-instruction/images/LewisEM76-54.jpg" alt="LewisEM76-54">](https://openn.library.upenn.edu/Data/0023/html/lewis_e_m_076_049-054.html)
+#### [Making the Renaissance Manuscript: Discoveries from Philadelphia Libraries](https://makingrenmanuscripts.exhibits.library.upenn.edu/introduction)
+>Drawing on local collections, this exhibition attempts to encompass the broadest possible scope of ideas and material manifestations associated with the European Renaissance. It explores the numerous ways in which the production of hand-written and hand-decorated documents flourished during this period, even as the age of the printing press dawned. The 100 items in the exhibit, drawn from ten local collections, encompass a broad array of ideas and material manifestations associated with the European Renaissance. Curated by Nicholas Herman.
+<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 [<img style="padding: 10px" align="right" width="150" src="/sims-instruction/images/LJS101.jpg" alt="LJS 101">](http://openn.library.upenn.edu/Data/0001/html/ljs101.html#a1v "LJS 101")
