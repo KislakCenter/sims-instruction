@@ -21,7 +21,7 @@ This is the Classroom, in which you can find resources to help you learn more ab
 
 [<img style="padding: 10px" align="right" height="100" src="http://img.youtube.com/vi/10ksUvqDOwE/0.jpg" alt="YouTube link to Marguerite Makes a Book read-aloud">](http://www.youtube.com/watch?v=10ksUvqDOwE "Marguerite Makes a Book")
 
-#### [Marguerite Makes a book](https://youtu.be/10ksUvqDOwE)
+#### [Marguerite Makes a Book](https://youtu.be/10ksUvqDOwE)
 >This is an illustrated read-aloud of *Marguerite Makes a Book* by Bruce Robertson. Read by Dot Porter.
 
 <p>&nbsp;</p>
