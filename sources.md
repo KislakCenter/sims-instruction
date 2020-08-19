@@ -32,7 +32,14 @@ scholars who have been directed here to procure high-resolution images
 of manuscript pages. It is presented in a manner most likely to ensure
 its long-term digital preservation. Many of the images here are
 available via more user-friendly page-turning applications on
-institutional websites. See [individual repository pages](http://openn.library.upenn.edu/Repositories.html) for details.
+institutional websites. See [individual repository
+pages](http://openn.library.upenn.edu/Repositories.html) for details.
+This [tutorial](https://www.youtube.com/watch?v=djXp6Me3RxI) provides an
+introduction to the Penn Libraries' website OPenn, as well as an
+introductory lesson on using the command line program wget with OPenn.
+Learn why OPenn was created, what materials are available on OPenn, how
+to navigate the site, and how to download images and metadata from OPenn
+using wget.
 
 ### [Schoenberg Database of Manuscripts (SDBM)](https://sdbm.library.upenn.edu/)
 
